@@ -70,14 +70,6 @@ ship it 🦀
 
 </div>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░  TROPHY  ░░░░░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=kenshin-morioka&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
-  </a>
-</div>
-
 <!-- ░░░░░░░░░░░░░░░░░░░░░  STACK  ░░░░░░░░░░░░░░░░░░░░░ -->
 
 ### 🧰 Tech Stack
