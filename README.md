@@ -63,10 +63,11 @@ ship it 🦀
 
 <div align="center">
 
-<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kenshin-morioka&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b26" />
+<img height="180" alt="GitHub Stats" src="profile-summary-card-output/tokyonight/3-stats.svg" />
 <img height="180" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=kenshin-morioka&hide_border=true&background=1a1b26&stroke=7aa2f7&ring=bb9af7&fire=f7768e&currStreakNum=c0caf5&sideNums=c0caf5&currStreakLabel=7aa2f7&sideLabels=7aa2f7&dates=a9b1d6" />
 
-<img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenshin-morioka&layout=compact&langs_count=10&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" />
+<img height="180" alt="Top Languages" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+<img height="180" alt="Most Commit Language" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 
 </div>
 
