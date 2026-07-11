@@ -5,9 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=800&color=7AA2F7&center=true&vCenter=true&width=760&lines=Hi+there%2C+I'm+Kenshin+Morioka+%F0%9F%91%8B;Backend+Engineer;Ruby+%E2%80%A2+Rails+%E2%80%A2+Rust+%F0%9F%A6%80+%E2%80%A2+AWS+%E2%80%A2+Terraform;Daily+driver%3A+WezTerm+%2B+Neovim+%2B+tmux" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=kenshin-morioka&style=flat-square&color=7aa2f7&label=Profile+views" alt="profile views" />
-<img src="https://img.shields.io/github/followers/kenshin-morioka?style=flat-square&color=bb9af7&labelColor=1a1b26" alt="followers" />
-
 </div>
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░  ABOUT  ░░░░░░░░░░░░░░░░░░░░░ -->
@@ -22,9 +19,8 @@ hacking_on:
 daily_driver:
   terminal: WezTerm
   mux:      tmux
-  editor:   Neovim (LazyVim)
-  shell:    zsh
-interests:   [backend, data-engineering, infra-as-code, rust, dx]
+  editor:   Neovim
+interests:   [backend, data-engineering, infra-as-code, rust, data-science]
 ```
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░  STATS  ░░░░░░░░░░░░░░░░░░░░░ -->
