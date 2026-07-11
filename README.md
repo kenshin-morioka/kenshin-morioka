@@ -45,7 +45,7 @@ interests:   [backend, data-engineering, infra-as-code, rust, dx]
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=rust,ruby,rails,ts,js,react,python,go,terraform,aws,docker,postgres,mysql,redis,tensorflow,sklearn,neovim,tmux,bash,zsh&perline=9" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=rust,ruby,rails,neovim,python,react,aws,terraform,docker,mysql,tensorflow,neovim,tmux&perline=9" alt="Tech stack" />
 
 </div>
 
