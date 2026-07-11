@@ -27,38 +27,6 @@ daily_driver:
 interests:   [backend, data-engineering, infra-as-code, rust, dx]
 ```
 
-<!-- ░░░░░░░░░░░░░░░░  DAILY DRIVER  ░░░░░░░░░░░░░░░░ -->
-
-### ⚙️ Daily Driver
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/WezTerm-4E49EE?style=for-the-badge&logo=wezterm&logoColor=white" alt="WezTerm" />
-<img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="tmux" />
-<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
-<img src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-
-</div>
-
-```text
- wezterm  ──  tmux 0:rust* 1:rails 2:zsh  ──  nvim  src/main.rs ────────
-~/projects/awesome-rust $ cargo run
-   Compiling awesome v0.1.0 (/Users/kenshin/projects/awesome-rust)
-    Finished dev [unoptimized + debuginfo] target(s) in 1.34s
-     Running `target/debug/awesome`
-ship it 🦀
-```
-
-<!-- ░░░░░░░░░░░░░░░░  CONTRIBUTION SNAKE  ░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/kenshin-morioka/kenshin-morioka/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kenshin-morioka/kenshin-morioka/output/github-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/kenshin-morioka/kenshin-morioka/output/github-snake.svg" />
-  </picture>
-</div>
-
 <!-- ░░░░░░░░░░░░░░░░░░░░░  STATS  ░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
@@ -77,7 +45,7 @@ ship it 🦀
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=rust,ruby,rails,ts,js,react,python,go,terraform,aws,docker,postgres,mysql,redis,neovim,tmux,bash,zsh&perline=9" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=rust,ruby,rails,ts,js,react,python,go,terraform,aws,docker,postgres,mysql,redis,tensorflow,sklearn,neovim,tmux,bash,zsh&perline=9" alt="Tech stack" />
 
 </div>
 
@@ -85,12 +53,6 @@ ship it 🦀
 
 <div align="center">
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kenshin-morioka&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Activity" />
-</div>
-
-<!-- ░░░░░░░░░░░░░░░░░░░░  QUOTE  ░░░░░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </div>
 
 <!-- ░░░░░░░░░░░░░░░░░░░░  FOOTER  ░░░░░░░░░░░░░░░░░░░░ -->
