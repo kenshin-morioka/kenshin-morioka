@@ -56,10 +56,3 @@ interests:   [backend, data-engineering, infra-as-code, rust, dx]
 </div>
 
 <!-- ░░░░░░░░░░░░░░░░░░░░  FOOTER  ░░░░░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
-
-<sub>パソコンにゃんこ ♡</sub><br/>
-<img src="パソコンにゃんこ.jpg" width="320" alt="パソコンにゃんこ" />
-
-</div>
