@@ -30,7 +30,6 @@ interests:   [backend, data-engineering, infra-as-code, rust, data-science]
 
 <div align="center">
 
-<img height="180" alt="GitHub Stats" src="profile-summary-card-output/tokyonight/3-stats.svg" />
 <img height="180" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=kenshin-morioka&hide_border=true&background=1a1b26&stroke=7aa2f7&ring=bb9af7&fire=f7768e&currStreakNum=c0caf5&sideNums=c0caf5&currStreakLabel=7aa2f7&sideLabels=7aa2f7&dates=a9b1d6" />
 
 <img height="180" alt="Top Languages" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
